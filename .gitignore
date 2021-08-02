@@ -151,6 +151,9 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# git workflows
+!.git/workflows/*
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
